@@ -16,7 +16,7 @@ void setup() {
   lcd.print("Servo Motor");
   lcd.setCursor(0,1);
   lcd.print("App");
-  delay(3000);
+  delay(300);
 }
 
 void loop() {
